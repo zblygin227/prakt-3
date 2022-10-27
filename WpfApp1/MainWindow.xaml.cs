@@ -10,7 +10,7 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
-        int[,] arr;
+        public int[,] arr;
         public MainWindow()
         {
             InitializeComponent();
